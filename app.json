@@ -5,14 +5,17 @@
     "env": {
       "BOT_TOKEN": {
         "description": "The Telegram bot token (Generate from BotFather)",
+        "value": "7412556699:AAEaKxks3I46cKwlIK_nCYVlt7LvSCgtYY8",
         "required": true
       },
       "BOT_USERNAME": {
         "description": "The username you have set for your bot.",
+        "value": "sasukeautoreactionbot",
         "required": true
       },
       "EMOJI_LIST": {
         "description": "A string of emojis that the bot will use to react to messages.",
+        "value": "🗿😭😍😁🥺😒🤭🌚😜🫡",
         "required": true
       },
       "RESTRICTED_CHATS": {
