@@ -39,7 +39,7 @@ export const htmlContent = `
 <body>
 
 <div class="title">Telegram Auto Reaction Bot 🎉</div>
-<img class="logo" src="https://telegra.ph/file/cb59967120c6bda64580b.jpg">
+<img class="logo" src="https://te.legra.ph/file/8a4fb1e7d36c5f01e2421.jpg">
 
 <button class="button githubBtn" onclick="window.location='https://github.com/Zenaku2050s/Auto-Reaction-Bot'">Open Source 🌱</button>
 
