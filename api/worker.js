@@ -51,11 +51,11 @@ export default {
                 await botApi.sendMessage(chatId, startMessage.replace('UserName', content.chat.type === "private" ? content.from.first_name : content.chat.title),
 				[
 					[
-                        {"text": "➕ Add to Channel ➕", "url": `https://t.me/${botUsername}?startchannel=botstart`},
-						{"text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart`},
+                        {"text": "ᴀᴅᴅ ᴛᴏ ᴄʜᴀɴɴᴇʟ", "url": `https://t.me/${botUsername}?startchannel=botstart`},
+						{"text": "ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ", "url": `https://t.me/${botUsername}?startgroup=botstart`},
 					],
                     [
-                        {"text": "Github Source 📥", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot"},
+                        {"text": "ᴅᴇᴠᴇʟᴏᴘᴇʀ", "url": "https://t.me/NhoeKyaiteKaungLayy"},
                     ]
 				]
 				);
