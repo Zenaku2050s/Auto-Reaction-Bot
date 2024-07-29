@@ -54,7 +54,7 @@ async function onUpdate(data, botApi, Reactions, RestrictedChats, botUsername, R
                     { "text": "ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ", "url": `https://t.me/${botUsername}?startgroup=botstart` },
                 ],
                 [
-                    { "text": "ᴅᴇᴠᴇʟᴏᴘᴇʀ", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot" },
+                    { "text": "ᴅᴇᴠᴇʟᴏᴘᴇʀ", "url": "https://t.me/NhoeKyaiteKaungLayy" },
                 ]
             ]);
         } else if (data.message && text === '/reactions') {
@@ -79,7 +79,7 @@ async function onUpdate(data, botApi, Reactions, RestrictedChats, botUsername, R
     }
 }
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
