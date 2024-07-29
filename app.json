@@ -5,7 +5,7 @@
     "env": {
       "BOT_TOKEN": {
         "description": "The Telegram bot token (Generate from BotFather)",
-        "value": "7412556699:AAEaKxks3I46cKwlIK_nCYVlt7LvSCgtYY8",
+        "value": "7412556699:AAGW9cYk3nP0n8U1cJvfUZXr-VWClhhNza8",
         "required": true
       },
       "BOT_USERNAME": {
